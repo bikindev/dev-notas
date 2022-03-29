@@ -1,2 +1,2 @@
 # dev-notas
-Anotações sobre meus aprendizados em desenvolvimento
+Este é um repositório de anotações sobre meus aprendizados em programação.
