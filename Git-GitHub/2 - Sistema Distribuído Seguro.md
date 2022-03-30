@@ -1,1 +1,3 @@
 # Sistema Distribuído Seguro
+
+Um sistema distribuído é um sistema que possui muitas cópias de si mesmo em diferentes locais. Graças aos commits, o sistema de versionamento do Git é muito seguro, já que não é possível criar uma só versão de um arquivo sem que a mudança seja apontada no commit. Além disso, seus objetos estão ligados de maneira encadeada e de difícil alteração. A versão mais atualizada, que fica no servidor deste código, tanto quanto as versões distribuídas entre outras máquinas de mantedores do sistema, são extremamente confiáveis e seguras e é por isso que o Git pode ser um sistema distribuído.
